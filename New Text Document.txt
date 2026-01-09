@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Knowledge Vault</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <img src="https://via.placeholder.com/100x40/00D4AA/white?text=KV" class="logo">
+        <div class="nav-center">
+            <a href="#">Features</a>
+            <a href="#">How it Works</a>
+            <a href="#">Why Different</a>
+        </div>
+        <a href="#" class="nav-btn">Get Early Access</a>
+    </nav>
+
+    <!-- BANNER -->
+    <section class="banner">
+        <div class="banner-text">
+            <h1>Structured Thinking,<br><span>Not Just Notes.</span></h1>
+            <p>Private note-taking</p>
+            <button class="btn1">Build Your Vault</button>
+            <button class="btn2">See How it Works</button>
+        </div>
+    </section>
+</body>
+</html>
